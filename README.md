@@ -19,7 +19,7 @@ The application utilizes the DeeplAPI for translation, taking the API key from t
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/srt-translator.git
+   git clone https://github.com/assasinos/SRTTranslator.git
    ```
 
 2. Change into the project directory:
