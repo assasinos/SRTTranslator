@@ -42,27 +42,25 @@ The application utilizes the DeeplAPI for translation, taking the API key from t
 
 ## Usage
 
-1. Place the SRT file you want to translate in the same directory as the application.
-
-2. Open the `Program.cs` file in the project and locate the following line:
+1. Open the `Program.cs` file in the project and locate the following line:
 
    ```csharp
    const string TargetLanguage = "pl"; // Set the target language code here (e.g., "pl" for Polish)
    ```
 
-3. Change the `TargetLanguage` value to the desired language code (e.g., "en" for English, "fr" for French, etc.).
+2. Change the `TargetLanguage` value to the desired language code (e.g., "en" for English, "fr" for French, etc.).
 
-4. Run the application:
+3. Run the application:
 
    ```bash
    dotnet run --project SrtTranslator
    ```
 
-5. Follow the prompts on the screen to select the source for translation.
+4. Follow the prompts on the screen to select the source for translation.
 
-6. The application will generate a translated SRT file in the app directory called same as original file".
+5. The application will generate a translated SRT file in the app directory called same as original file".
 
-7. Enjoy your translated subtitles!
+6. Enjoy your translated subtitles!
 
 ## Contributing
 
