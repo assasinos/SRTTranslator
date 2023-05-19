@@ -53,8 +53,8 @@ The application utilizes the DeeplAPI for translation, taking the API key from t
 3. Run the application:
 
    ```bash
-   dotnet run --project SRTTranslator  
- ```
+   dotnet run
+   ```
 
 4. Follow the prompts on the screen to select the source for translation.
 
